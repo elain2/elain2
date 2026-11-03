@@ -1,6 +1,6 @@
 # Hi, I'm Kayoung Lee 👋
 
-**iOS Developer at LINE** | Swift, visionOS, AI, Computer Vision
+**Developer at LINE** | AI, Swift, visionOS, Computer Vision
 
 ---
 
