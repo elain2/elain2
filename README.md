@@ -6,7 +6,7 @@
 
 ## About Me
 
-iOS Developer at LINE, currently working on AI-powered features. Former team lead of LINE Voom Camera and LINE Avatar teams. Passionate about spatial computing, computer graphics, and building delightful user experiences.
+iOS Developer at LINE, currently working on AI-powered features and AX. Former team lead of LINE AI, Voom Camera and Avatar teams. Passionate about AI, and building delightful user experiences.
 
 ## Tech Stack
 
@@ -23,7 +23,8 @@ iOS Developer at LINE, currently working on AI-powered features. Former team lea
 ## Experience
 
 ### LINE Corporation (2019 - Present)
-- **LINE AI Dev 2** - Team Lead / Team Member (2025 - Present)
+- **LINE Product Developemnt 4 - AI Evangelist (2026 - Present)
+- **LINE AI Dev 2** - Team Lead / Team Member (2025 - 2026)
 - **LINE Voom Camera** - Team Lead (2023 - 2026)
 - **LINE Vision Pro Solution** - visionOS Development (2024)
 - **LINE Avatar** - iOS Developer (2019 - 2021)
