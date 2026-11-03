@@ -23,7 +23,7 @@ iOS Developer at LINE, currently working on AI-powered features and AX. Former t
 ## Experience
 
 ### LINE Corporation (2019 - Present)
-- **LINE Product Developemnt 4 - AI Evangelist (2026 - Present)
+- **LINE Product Developemnt 4** - AI Evangelist (2026 - Present)
 - **LINE AI Dev 2** - Team Lead / Team Member (2025 - 2026)
 - **LINE Voom Camera** - Team Lead (2023 - 2026)
 - **LINE Vision Pro Solution** - visionOS Development (2024)
